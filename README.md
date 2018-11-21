@@ -86,4 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
-![Images](../master/screenshots/sa1.jpg)
+![Images](../master/screenshots/sa1.resized.jpg)
