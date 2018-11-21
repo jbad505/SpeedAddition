@@ -20,7 +20,7 @@ Once the repo is cloned or downloaded the app needs to be complied then installe
 
 ## Deployment
 
-Speed Addition will not be deployed on Google Play App Store
+Speed Addition will not be deployed on Google Play App Store.
 
 ## Screenshots
 
