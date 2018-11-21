@@ -23,11 +23,11 @@ Once the repo is cloned or downloaded the app needs to be complied then installe
 Speed Addition will not be deployed on Google Play App Store
 
 ## Screenshots
- 
+
+ ![Images](../master/screenshots/sa4.resized.jpg)
  ![Images](../master/screenshots/sa1.resized.jpg) 
  ![Images](../master/screenshots/sa2.resized.jpg)
  ![Images](../master/screenshots/sa3.resized.jpg)
- ![Images](../master/screenshots/sa4.resized.jpg)
 
 ## Authors
 
